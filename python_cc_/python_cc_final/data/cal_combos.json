@@ -1,0 +1,53 @@
+{
+    "combos": [
+      {
+        "id": "combo-1",
+        "name": "Cheesy Combo",
+        "items": [
+          {
+            "mealId": "meal-2"
+          },
+          {
+            "mealId": "meal-5"
+          },
+          {
+            "mealId": "meal-8"
+          }
+        ],
+        "price": 11
+      },
+      {
+        "id": "combo-2",
+        "name": "Veggie Combo",
+        "items": [
+          {
+            "mealId": "meal-3"
+          },
+          {
+            "mealId": "meal-5"
+          },
+          {
+            "mealId": "meal-7"
+          }
+        ],
+        "price": 10
+      },
+      {
+        "id": "combo-3",
+        "name": "Vegan Combo",
+        "items": [
+          {
+            "mealId": "meal-4"
+          },
+          {
+            "mealId": "meal-6"
+          },
+          {
+            "mealId": "meal-8"
+          }
+        ],
+        "price": 10
+      }
+    ]
+  }
+  
